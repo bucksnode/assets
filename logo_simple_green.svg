@@ -14,7 +14,7 @@
   </g>
   <g stroke="#35834b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
     <path d="M66 166V109.75"/>
-    <rect x="50" y="166" width="156" height="48" rx="12" fill="#edf7ee"/>
+    <rect x="50" y="166" width="156" height="48" rx="12" fill="none"/>
   </g>
   <g fill="#35834b">
     <circle cx="73" cy="190" r="4"/>

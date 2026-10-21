@@ -76,10 +76,10 @@
     </g>
     <path d="M314 116V175" fill="none" stroke="#eefbff" stroke-width="4"/>
     <g clip-path="url(#rounded-router-clip)">
-      <path d="M278 238H298V248H278Z" fill="#57bff8"/>
-      <path d="M122 222L288 244V316L122 294Z" fill="url(#front)"/>
-      <path d="M288 240L343 192V264L288 316Z" fill="#209fee"/>
-      <path d="M122 222L177 170L343 192L293.818182 238.5Q288 244 280 242.939759L122 222Z" fill="url(#top)" stroke="#18252b" stroke-width="3.6"/>
+      <path d="M278 238H298V248H278Z" fill="none"/>
+      <path d="M122 222L288 244V316L122 294Z" fill="none"/>
+      <path d="M288 240L343 192V264L288 316Z" fill="none"/>
+      <path d="M122 222L177 170L343 192L293.818182 238.5Q288 244 280 242.939759L122 222Z" fill="none" stroke="#18252b" stroke-width="3.6"/>
       <path d="M288 242.17V316" fill="none" stroke="#18252b" stroke-width="3.6"/>
       <path d="M135 216L176.090909 177.150758Q179 174.4 183 174.93012L331 194.544578" fill="none" stroke="#eafaff" stroke-width="4"/>
       <path d="M129 234V282Q129 286 133 286.53012L279 305.879518" fill="none" stroke="#75d3ff" stroke-width="3.5"/>
