@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <title>Wireless router and dollar coin - green</title>
+  <desc>A green router with one left antenna and two signal arcs, with a green dollar coin above its right side, on a transparent square canvas.</desc>
+  <g transform="translate(50.21 39.89) scale(.855)">
+    <circle cx="128" cy="82" r="48" fill="#b9dfbd" stroke="#35834b" stroke-width="7"/>
+    <circle cx="128" cy="82" r="35" fill="#62a96f" stroke="#35834b" stroke-width="5"/>
+    <g stroke="#fff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M140 67C133 61 115 62 115 73C115 85 141 79 141 91C141 103 122 105 114 98"/>
+      <path d="M128 58V107"/>
+    </g>
+  </g>
+  <g stroke="#35834b" stroke-width="6" stroke-linecap="round">
+    <path d="M38 80.75Q66 54.75 94 80.75M50 92.75Q66 76.75 82 92.75"/>
+  </g>
+  <g stroke="#35834b" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 166V109.75"/>
+    <rect x="50" y="166" width="156" height="48" rx="12" fill="#edf7ee"/>
+  </g>
+  <g fill="#35834b">
+    <circle cx="73" cy="190" r="4"/>
+    <circle cx="91" cy="190" r="4"/>
+  </g>
+</svg>
